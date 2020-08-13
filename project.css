@@ -101,19 +101,26 @@ padding: 0 3rem;
     letter-spacing: 4px;
     opacity: 0.9;
   }
+
+  .navbar-default{
+    background-color: #808080;
+  }
   .navbar li a, .navbar .navbar-brand {
-    color: #d5d5d5 !important;
+    color: #2d2d30 !important;
   }
   .navbar-nav li a:hover {
-    color: #fff !important;
+    color: #d5d5d5 !important;
+    background-color: #2d2d30 !important;
   }
   .navbar-nav li.active a {
     color: #fff !important;
-    background-color: #29292c !important;
+    background-color: #2d2d30 !important;
   }
   .navbar-default .navbar-toggle {
     border-color: transparent;
   }
+
+
   /* .open .dropdown-toggle {
     color: #fff;
     background-color: #555 !important;
@@ -205,6 +212,14 @@ padding: 0 3rem;
   background-size: cover;
   background-position: center;
 }
+
+#f {
+  background-image: url("../Games/images/3Dpuzzle.png");
+  background-size: cover;
+}
+
+
+
 
 .space{
   padding: 30px;

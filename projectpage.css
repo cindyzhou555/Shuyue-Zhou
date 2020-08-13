@@ -102,6 +102,10 @@ padding: 0 3rem;
     letter-spacing: 4px;
     opacity: 0.9;
   }
+  
+  .navbar-default{
+    background-color: #808080;
+  }
   .navbar li a, .navbar .navbar-brand {
     color: #d5d5d5 !important;
   }
